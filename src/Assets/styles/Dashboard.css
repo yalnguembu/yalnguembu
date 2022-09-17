@@ -1,0 +1,176 @@
+.Home_app {
+    background-color: #f0f8f8;
+}
+.Home_app .nav{
+    background-color: #fff;
+    width: 100%;
+    height: 100%;
+    padding:12px ;
+    list-style-type: none;
+    position: relative;
+}
+.Home_app .nav .img{
+    margin:5% ;
+    width: 90%;
+    display: block;
+}
+.Home_app .nav .b1{
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid lightgray;
+    position: absolute;
+    bottom: 10px;
+}
+
+.Home_app .nav .b1 .img{
+    width: 100%;
+    border-radius: 50% ;
+    display: block;
+}
+.Home_app .nav .b1 .name{
+    font-weight: 500;
+    font-size: 19px;
+    color: #181818;
+}
+.Home_app .nav .b1 .work{
+    color: gray;
+    font-size: 14px;
+}
+.Home_app .nav p{
+    margin-block: 0;
+}
+.Home_app .nav .li{
+    padding: 12px;
+    text-decoration: none;
+    color: #383838;
+    display: block;
+    /* border-bottom: 1px solid lightgray; */
+}
+.Home_app .nav .li:hover{
+    background-color: #cefcfc;
+}
+.Home_app .main_app{
+    padding: 15px;
+}
+.Home_app .main_app .about{
+    margin-bottom: 20px ;
+}
+.Home_app .main_app .imgBox{
+    position: relative;
+    height: 100px;
+}
+.Home_app .main_app .about .bg{
+    width: 100%;
+}
+.Home_app .box{
+    width: 100px;
+    border-radius: 50%;
+    background-color: #fff;
+    position: absolute;
+    top: -30px;
+    left: 20px;
+}
+.Home_app .main_app .about .me{
+    width: 100%;
+    border-radius: 50%;
+}
+.Home_app .main_app .icon{
+    vertical-align: middle;
+    color: #181818;
+    margin-block: 14px;
+    margin-right: 5px;
+}
+.Home_app  .it_{
+    text-decoration: none;
+}
+.Home_app  .it{
+    margin-block: 10px;
+    /* margin-bottom: 30px; */
+    padding-inline: 20px;
+    padding-block: 1px;
+    background-color: #fff;
+    border-radius: 5px;
+}
+.Home_app .article{
+    margin-bottom: 10px;
+    border-bottom: 1px solid lightgray;
+    padding-bottom: 10px;
+}
+.Home_app .it .titre{
+    font-weight: 500;
+    margin-bottom: 0;
+    color: #1c333a;
+}
+.Home_app .it .contenu{
+    margin-bottom: 0;
+    margin-top: 5px;
+    color: gray;
+}
+.Home_app .it .date{
+    margin-bottom: 10px;
+    margin-top: 5px;
+    color: #1c333a;
+    font-size: 14px;
+}
+.Home_app .it .date .icon{
+    /* vertical-align: middle; */
+    font-size: 14px;
+}
+.Home_app .it .imgBox .img{
+    width: 100%;
+}
+.Home_app .it .txtBox_{
+    padding-inline: 12px;
+}
+.Home_app .it .txtBox_ .date_{
+    vertical-align: middle;
+    font-size: 15px;
+    color: gray;
+}
+.Home_app .it .txtBox_  .icon{
+    vertical-align: middle;
+    color: gray;
+    font-size: 15px;
+}
+.Home_app .it .txtBox_ .titre_ar{
+    font-weight: 500;
+    color: #383838;
+    margin: 0;
+}
+.Home_app .main_app .title{
+    font-size: 19px;
+    font-weight: 500;
+    margin-block: 12px;
+}
+.Home_app .main_app .name{
+    font-size: 25px;
+    font-weight: 700;
+    margin-block: 5px;
+}
+.Home_app .exp{
+    width: 100%;
+    border-bottom:2px solid #d4d4d4 ;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+}
+.Home_app .main_app .work{
+    color: #4d4d4d;
+    margin-block:0 ;
+}
+.Home_app .main_app .desc{
+    color: #4d4d4d;
+    margin-block:0 ;
+}
+.Home_app .main_app .titre{
+    font-size: 25px;
+    font-weight: 500;
+    color: #4d4d4d;
+}
+.Home_app .main_app .nbr{
+    font-size: 25px;
+}
+.Home_app .main_app .icon2{
+    vertical-align: middle;
+    color: #4d4d4d;
+    font-size: 50px;
+}
