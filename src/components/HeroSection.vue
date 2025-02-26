@@ -1,4 +1,10 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import { useI18n } from "vue-i18n";
+
+const { t } = useI18n({
+  inheritLocale: true,
+});
+</script>
 
 <template>
   <div class="hero w-full bg-base-300 min-h-screen overflow-hidden">

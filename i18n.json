@@ -1,0 +1,16 @@
+{
+  "en": {
+    "header": {
+      "titlePrepend" : "I'm",
+      "titleAppend" : "Yal Nguembu"
+    },
+    "heroSection": {
+      "title" : "I'm",
+      "subTitle" : "Yal Nguembu",
+      "tooltip" : "Yal Nguembu | Software developer"
+    }
+  },
+  "fr": {
+    "title": "Template"
+  }
+}
